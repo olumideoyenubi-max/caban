@@ -18,7 +18,19 @@ Open `index.html` in a browser (or serve the folder with any static server) and 
 - **Storm**: six phases that shrink toward a random safe circle and hurt more each phase.
 - **HUD**: minimap with storm, next circle and supply drops; a full-screen map; kill feed; health and shield; hotbar with rarity colors; item bar; ammo; damage numbers; hit markers; red arcs showing where you're being shot from.
 - **End screen**: placement, eliminations, time survived, damage dealt and builds placed. A win shows confetti.
-- **Settings** for bot count, difficulty and aim sensitivity are remembered in your browser.
+- **Settings** for bot count, difficulty, graphics and aim sensitivity are remembered in your browser.
+
+## Graphics
+
+- Filmic tone mapping with proper sRGB color, a gradient sky with a sun glow, and drifting low-poly clouds.
+- Generated textures: grass, sand, paved town squares, plastered walls, roof tiles and wooden planks on every build.
+- Houses have windows, trim, door mats and chimneys. Trees and rocks are faceted low-poly shapes.
+- Thousands of swaying grass tufts and flowers, animated waves, a sloped beach and shoreline foam.
+- An animated storm wall, loot beams colored by rarity, glowing chests and supply-drop beacons.
+- Soft particles for muzzle flashes, impacts, rocket trails, explosions (with a light flash), landing dust and eliminations.
+- Builds pop into place, characters flash when hit and have faces, shoes and backpacks.
+- A compass along the top of the screen, footsteps, wind while skydiving, and a slight field-of-view kick when sprinting.
+- **Graphics: Fast** turns off the grass, uses simpler lighting, halves the shadow resolution and renders at 1× pixel ratio for slower devices.
 - **Touch controls** on phones and tablets.
 
 ## Controls

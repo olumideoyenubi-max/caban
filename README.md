@@ -35,3 +35,15 @@ Ikwerre Road and Market Road cross at a police checkpoint. Around the junction a
 | Pause | Esc |
 
 Touchscreens get an on-screen stick and buttons.
+
+## Graphics settings
+Pick **Low, Medium, High or Ultra** on the main menu or the pause screen. The game remembers your choice. Phones start on Medium and computers on High. If the frame rate drops, the game suggests a lower setting.
+
+| | Low | Medium | High | Ultra |
+| --- | --- | --- | --- | --- |
+| Render scale | 0.75× | 1× | up to 1.5× | up to 2× |
+| Sun shadows | off | 1024 | 2048 soft | 4096 soft |
+| Bloom glow, colour grade, film grain, hit fringing | off | off | on | on |
+| Multisample anti-aliasing | | | | on (WebGL 2) |
+
+Every setting also gets sky reflections on all surfaces, moving clouds, a rippling creek, textured walls, zinc roofs and roads, brass casings and dust in the air.

@@ -51,3 +51,7 @@ Open `index.html` in a browser (or serve the folder with any static server) and 
 | H | Quick heal (picks the best item) |
 | 0 | Place a launch pad |
 | M | Full map |
+
+## License
+
+Copyright © 2026 Olumide Oyenubi. All rights reserved. See [LICENSE](LICENSE).
